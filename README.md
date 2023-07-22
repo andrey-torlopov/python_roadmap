@@ -1,4 +1,7 @@
 # Python roadmap
+<br>
+![codewars skill](https://www.codewars.com/users/andreytorlopov/badges/large)
+<br>
 
 - [ ] Основы Python
   - [ ] Синтаксис, переменные, условные операторы, циклы, функции и т.д.
