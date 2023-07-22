@@ -1,6 +1,8 @@
 # Python roadmap
 <br>
-![CodeWars Badge](https://www.codewars.com/users/andreytorlopov/badges/large)
+<a href="https://www.codewars.com/users/andreytorlopov">
+<img src="https://www.codewars.com/users/andreytorlopov/badges/large" alt="" />
+</a>
 <br>
 
 - [ ] Основы Python
